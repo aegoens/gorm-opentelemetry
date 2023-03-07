@@ -1,4 +1,4 @@
-module gorm.io/plugin/opentelemetry
+module github.com/aegoens/gorm-opentelemetry
 
 go 1.17
 
